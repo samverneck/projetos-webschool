@@ -1,2 +1,3 @@
-# projetos-webschool
-Repositório onde colocarei os projetos em pratica @Webschool.io
+# Projetos Webschool
+
+Repositório onde colocarei os projetos em pratica. **WEBSCHOOL**
